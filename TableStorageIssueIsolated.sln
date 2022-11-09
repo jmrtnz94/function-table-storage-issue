@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableStorageIssueIsolated", "TableStorageIssueIsolated\TableStorageIssueIsolated.csproj", "{1D33DD55-9A1F-4515-A80C-41EA75587A17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableStorageIssueInProcess", "TableStorageIssueInProcess\TableStorageIssueInProcess.csproj", "{98436DAF-09F3-467E-ABC7-509E8DE5ACCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D33DD55-9A1F-4515-A80C-41EA75587A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D33DD55-9A1F-4515-A80C-41EA75587A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D33DD55-9A1F-4515-A80C-41EA75587A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D33DD55-9A1F-4515-A80C-41EA75587A17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98436DAF-09F3-467E-ABC7-509E8DE5ACCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98436DAF-09F3-467E-ABC7-509E8DE5ACCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98436DAF-09F3-467E-ABC7-509E8DE5ACCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98436DAF-09F3-467E-ABC7-509E8DE5ACCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D2A00FF-2A91-44DD-AC50-5C4C8E3D56C7}
+	EndGlobalSection
+EndGlobal
